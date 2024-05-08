@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+   width: 1035px; 
+   padding: 20px;
+   background-color: red;
+}
+
+h1{
+   text-align: center;
+   color:blue;
+}
+
+footer{
+    background-color: cadetblue;
+    border: cornflowerblue;
+}
